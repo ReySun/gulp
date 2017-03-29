@@ -1,0 +1,1 @@
+function bb(){void 0}
